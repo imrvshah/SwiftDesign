@@ -1,0 +1,6 @@
+![Instagram_1](https://github.com/imrvshah/Swift-2020/blob/master/Design/Instagram/Instagram_1.jpg)
+![Instagram_2](https://github.com/imrvshah/Swift-2020/blob/master/Design/Instagram/Instagram_2.jpg)
+![Instagram_3](https://github.com/imrvshah/Swift-2020/blob/master/Design/Instagram/Instagram_3.jpg)
+![Instagram_4](https://github.com/imrvshah/Swift-2020/blob/master/Design/Instagram/Instagram_4.jpg)
+![Instagram_5](https://github.com/imrvshah/Swift-2020/blob/master/Design/Instagram/Instagram_5.jpg)
+![Instagram_6](https://github.com/imrvshah/Swift-2020/blob/master/Design/Instagram/Instagram_6.jpg)
